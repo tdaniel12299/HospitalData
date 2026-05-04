@@ -1,0 +1,5 @@
+Test,Comparison,Test Statistics,P-Value,Significant
+ANOVA,Ratings cross states,F= 7.8744,0.0000,Yes
+Paired T-test,Cost of Heart Attack Procedure compared to Heart Failure Procedure per hospital,t= 202.9062,0.0000,Yes
+Two-Sample T-test,Cost of Heart Attack Procedure: CA vs TX,t= -2.1790,0.0300,Yes
+Chi-Square Test,Ratings vs State comparison,χ²= 293.4002,0.0000,Yes
