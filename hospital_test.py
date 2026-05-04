@@ -21,6 +21,7 @@ if len(state_groups) >= 2:
     f_stat, p_val = f_oneway(*state_groups)
     print(f'pvalue: {p_val:.10f}') #can be displayed with p_val:.2e to show how small the value is
 
+print("Paired T-test")
 
 
 
