@@ -38,6 +38,7 @@
   </ol>
 </details>
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 
@@ -61,13 +62,13 @@ The dataset contains information from 2,182 hospitals across 53 U.S. states and 
 ### Technology Used
 
 Programming & Analysis
-* [![Python][Python.js]][Python-url]
-* [![Pandas][Pandas.js]][Pandas-url]
-* [![NumPy][NumPy.js]][NumPy-url]
-* [![SciPy][SciPy.io]][SciPy-url]
+* Python
+* Pandas
+* NumPy
+* SciPy
 Data Visualization
-* [![PowerBI][PowerBI.dev]][PoweBI-url]
-* [![Excel][Excel.com]][Excel-url]
+* PowerBI
+* Excel
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -210,5 +211,6 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
