@@ -202,8 +202,6 @@ Tyler Daniel - [@Tyler.Daniel](www.linkedin.com/in/tyler-daniel-1503841ba)
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
 * [Read-Me Template]([https://choosealicense.com](https://github.com/othneildrew/Best-README-Template/blob/main/README.md))
 * [Pandas Cheat Sheet]([https://www.webpagefx.com/tools/emoji-cheat-sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf))
 * [NumPy Documentation]([https://flexbox.malven.co/](https://numpy.org/doc/stable/user/absolute_beginners.html))
